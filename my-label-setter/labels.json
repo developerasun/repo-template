@@ -1,0 +1,27 @@
+[
+    {
+    "name": "research",
+    "color": "000000",
+    "description": "digging out for more details"
+    },
+    {
+    "name": "bug",
+    "color": "000000",
+    "description": "Something isn't working"
+    },
+    {
+    "name": "annoying",
+    "color": "000000",
+    "description": "tiny but annoying bugs/mistakes"
+    },
+    {
+    "name": "confusing",
+    "color": "000000",
+    "description": "familiar but confusing topics"
+    },
+    {
+    "name": "unexpected",
+    "color": "000000",
+    "description": "unexpected result or behavior observed"
+    }
+]

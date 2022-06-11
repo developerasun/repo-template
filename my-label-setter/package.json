@@ -1,0 +1,20 @@
+{
+  "name": "my-label-setter",
+  "version": "0.1.2",
+  "description": "Update github repository label",
+  "main": "updateLabel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "label": "node ./updateLabel.js"
+  },
+  "keywords": [
+    "github",
+    "labels",
+    "issue",
+    "update",
+    "template"
+  ],
+  "author": "DeveloperAsun(Jake Sung)",
+  "license": "MIT",
+  "type": "commonjs"
+}
